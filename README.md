@@ -43,7 +43,7 @@ After setting up and testing the Python main loop and poem printing, set it to l
 Add the terminal command to start the python script before the line "exit 0":
 
 ```
-cd /home/pi/Python-Thermal-Printer
+cd /home/pi/poemBot
 python vpodMainV2.py &
 ```
 
